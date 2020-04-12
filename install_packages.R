@@ -6,12 +6,12 @@ run_setup <- FALSE
 if(run_setup == TRUE) {
   
   # tidyverse & blog down
-  install.packages("tidyverse")
-  install.packages("blogdown")
+  install.packages("tidyverse")         # Always a good package to have downloaded
+  install.packages("blogdown")          # Useful package for creating blogs
 
   # install slumdown from github
-  install.packages("remotes")
-  remotes::install_github("djnavarro/slumdown")
+  install.packages("remotes")        # When installing from CRAN can use install.packages function    
+  remotes::install_github("djnavarro/slumdown")      # If you want to directly call function from it's package without loading you can use double colon ie package name :: function you want to use
   
   # to run addins
   install.packages("xtable")
@@ -22,3 +22,7 @@ if(run_setup == TRUE) {
   # initial installation of Hugo
   blogdown::install_hugo()
 }
+
+
+# library(remotes)
+# install_git(repo = "djnavarro/slumdown") <- in quotations is repository name/ owner and blog name

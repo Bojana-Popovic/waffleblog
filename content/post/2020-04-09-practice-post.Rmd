@@ -1,0 +1,23 @@
+---
+title: Practice Post
+author: Bojana 
+date: '2020-04-09'
+slug: practice-post
+categories: []
+tags: []
+---
+
+# A post about nothing
+## To practice using markdown
+### And everything that comes with it
+
+Firstly here is a numbered list:
+
+1. Numbered
+2. List 
+3. Of
+4. Nothing
+
+And here is an image 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.inspiredtaste.net%2F25708%2Fessential-waffle-recipe%2F&psig=AOvVaw1bYb-O7V2ewf5qQDx686Su&ust=1586495979418000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj8yJzM2ugCFQAAAAAdAAAAABAD)
+

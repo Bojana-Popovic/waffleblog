@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Slumdown</title>
@@ -6,10 +6,32 @@
     <description>Recent content in Posts on Slumdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A waffly post about waffles</title>
+      <link>/post/a-waffle-post/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-waffle-post/</guid>
+      <description> I want to talk about waffled but idk anything about waffles. Here are all the things that idk:
+A heading about waffles  this that everything  An image about kittens Placekitten
+\[ 1 + 3 = 7 \]
+  </description>
+    </item>
+    
+    <item>
+      <title>Practice Post</title>
+      <link>/post/practice-post/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/practice-post/</guid>
+      <description> A post about nothing To practice using markdown And everything that comes with it Firstly here is a numbered list:
+Numbered List Of Nothing  And here is an image    </description>
+    </item>
     
     <item>
       <title>Tutorial part 1: Getting started</title>
