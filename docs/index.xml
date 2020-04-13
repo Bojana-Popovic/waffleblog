@@ -6,10 +6,21 @@
     <description>Recent content in Home on WAFFLE BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using R Markdown</title>
+      <link>/post/using-r-markdown/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-r-markdown/</guid>
+      <description>this section is written in markdown. it is used primarily for discussion, explanation etc. first let’s load our packages
+library(tidyverse) library(slumdown) this would usually be about waffles but instead i will do something boring with cards and the mpg data frame and i will also illustrate the use of inline R commands 7
+pic &amp;lt;- ggplot(data = mpg) + geom_point(mapping = aes(x = displ, y = hwy)) + theme_slum(palette = &amp;quot;kunoichi&amp;quot;) + xlab(&amp;quot;engine displacement&amp;quot;) + ylab(&amp;quot;highway mileage&amp;quot;) this chunk has created the pic variable, to draw the plot, we just include the R command print(pic)</description>
+    </item>
     
     <item>
       <title>A waffly post about waffles</title>
